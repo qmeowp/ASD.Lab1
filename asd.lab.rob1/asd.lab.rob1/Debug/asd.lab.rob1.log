@@ -1,0 +1,3 @@
+﻿  asd.lab.rob1.cpp
+D:\hey\ФПМ\asd\asd.lab.rob1\asd.lab.rob1\asd.lab.rob1.cpp(23,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  asd.lab.rob1.vcxproj -> D:\hey\ФПМ\asd\asd.lab.rob1\Debug\asd.lab.rob1.exe
